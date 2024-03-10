@@ -1,31 +1,31 @@
-#BMW Autos Assistant
+# BMW Autos Assistant
 
 This script implements a conversational bot that provides information about BMW cars. It interacts with users through a command-line interface and can answer questions related to BMW models, features, specifications, and more.
 
-##How to Use:
+## How to Use:
 
-##Starting the Bot:
+## Starting the Bot:
 
 1. Run the script in your preferred Python environment.
 2. You'll be greeted with a welcome message and prompted to input your query.
 
-##Asking Questions:
+## Asking Questions:
 
 1. You can ask questions about BMW cars, such as model information, features, performance, and more.
 2. The bot will attempt to provide relevant answers based on pre-trained data.
 
-##Adding New Responses:
+## Adding New Responses:
 
 1. If the bot doesn't have an answer to your question, it will prompt you to provide more information.
 2. You can input the desired response, and the bot will save it for future reference.
 
-##Exiting the Bot:
+## Exiting the Bot:
 
 - To exit the bot, simply type "quit" when prompted for input.
 
-##Understanding the Code:
+## Understanding the Code:
 
-**Function Definitions:
+**Function Definitions:**
 
 - `load(file_loc: str) -> dict`: Loads JSON data from a file and returns it as a dictionary.
 - `save(file_loc: str, data: dict)`: Saves a dictionary as JSON data to a file.
