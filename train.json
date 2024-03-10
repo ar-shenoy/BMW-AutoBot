@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "keywords": ["greeting", "hello", "hi"],
+      "answer": "Hello! How's your day going?"
+    },
+    {
+      "question": "how are you",
+      "keywords": ["how", "are", "you"],
+      "answer": "I'm just a bot, but thank you for asking! How can I help you?"
+    },
+    {
+      "question": "how can i help you",
+      "keywords": ["help"],
+      "answer": "You can ask me anything about BMW cars. I'm here to provide information and assistance!"
+    },
+    {
+      "question": "models BMW offer",
+      "keywords": ["models", "BMW"],
+      "answer": "BMW offers a range of models including sedans, SUVs, coupes, convertibles, and electric vehicles."
+    },
+    {
+      "question": "popular BMW models",
+      "keywords": ["popular", "BMW", "models"],
+      "answer": "Some popular BMW models include the BMW 3 Series, BMW 5 Series, BMW X3, and BMW X5."
+    },
+    {
+      "question": "BMW electric cars",
+      "keywords": ["BMW", "electric", "cars"],
+      "answer": "Yes, BMW produces electric cars such as the BMW i3 and the BMW iX3."
+    },
+    {
+      "question": "BMW flagship sedan",
+      "keywords": ["BMW", "flagship", "sedan"],
+      "answer": "BMW's flagship sedan is the BMW 7 Series, known for its luxury features and advanced technology."
+    },
+    {
+      "question": "BMW known performance cars",
+      "keywords": ["BMW", "performance", "cars"],
+      "answer": "Yes, BMW is known for producing performance-oriented cars, particularly in its M series lineup."
+    },
+    {
+      "question": "BMW slogan",
+      "keywords": ["BMW", "slogan"],
+      "answer": "BMW's slogan is 'The Ultimate Driving Machine.'"
+    },
+    {
+      "question": "BMW M3",
+      "keywords": ["BMW", "M3"],
+      "answer": "The BMW M3 is a high-performance variant of the BMW 3 Series, known for its powerful engines, agile handling, and aggressive styling. It is available in sedan, coupe, and convertible body styles."
+    },
+    {
+      "question": "BMW X5 special",
+      "keywords": ["BMW", "X5", "special"],
+      "answer": "The BMW X5 is a luxury midsize SUV known for its spacious and upscale interior, powerful engine options, advanced technology features, and impressive off-road capabilities."
+    },
+    {
+      "question": "BMW X6 known for",
+      "keywords": ["BMW", "X6", "known"],
+      "answer": "The BMW X6 is a luxury crossover SUV known for its distinctive coupe-like styling, powerful performance, and advanced technology features. It offers a sporty driving experience with the practicality of an SUV."
+    },
+    {
+      "question": "BMW M5 performance like",
+      "keywords": ["BMW", "M5", "performance"],
+      "answer": "The BMW M5 is a high-performance variant of the BMW 5 Series, known for its exhilarating acceleration, precise handling, and luxurious interior. It is powered by a turbocharged V8 engine and offers advanced performance features such as M xDrive all-wheel drive."
+    },
+    {
+      "question": "BMW X7 design",
+      "keywords": ["BMW", "X7", "design"],
+      "answer": "The BMW X7 is a full-size luxury SUV known for its commanding presence, spacious three-row seating, and opulent interior. It features BMW's signature kidney grille, sleek LED headlights, and a range of premium amenities."
+    },
+    {
+      "question": "BMW M4 features",
+      "keywords": ["BMW", "M4", "features"],
+      "answer": "The BMW M4 is a high-performance variant of the BMW 4 Series, known for its aggressive styling, powerful engines, and dynamic driving characteristics. It features lightweight construction, adaptive suspension, and advanced technology features for a thrilling driving experience."
+    },
+    {
+      "question": "BMW X3 handle off-road",
+      "keywords": ["BMW", "X3", "handle", "off-road"],
+      "answer": "The BMW X3 offers capable off-road performance with features such as xDrive all-wheel drive, hill descent control, and available off-road packages. While it excels on paved roads, it can also handle light off-road trails and adverse weather conditions with confidence."
+    },
+    {
+      "question": "BMW X1 safety features",
+      "keywords": ["BMW", "X1", "safety", "features"],
+      "answer": "The BMW X1 comes equipped with a range of advanced safety features including adaptive cruise control, forward collision warning, automatic emergency braking, lane departure warning, and parking assistance systems, providing enhanced safety and peace of mind."
+    },
+    {
+      "question": "BMW M Performance lineup",
+      "keywords": ["BMW", "M", "Performance", "lineup"],
+      "answer": "The BMW M Performance lineup includes a range of vehicles that offer enhanced performance and sporty styling, sitting between the standard BMW models and the high-performance M models. These vehicles feature upgraded engines, suspension, brakes, and aerodynamics for a more dynamic driving experience."
+    },
+    {
+      "question": "BMW X2 vs X1",
+      "keywords": ["BMW", "X2", "vs", "X1"],
+      "answer": "The BMW X2 is a compact luxury SUV that shares the same platform as the X1 but offers a sportier design and more dynamic driving characteristics. It features a coupe-like roofline, sport-tuned suspension, and available M Sport Package for a more engaging driving experience."
+    },
+    {
+      "question": "BMW electric mobility vision",
+      "keywords": ["BMW", "electric", "mobility", "vision"],
+      "answer": "BMW is committed to electric mobility and sustainability with initiatives such as the BMW i brand, which includes electric and plug-in hybrid vehicles designed for urban mobility. The company aims to offer a range of electrified options across its lineup, reducing emissions and environmental impact."
+    },
+    {
+      "question": "BMW X4 features",
+      "keywords": ["BMW", "X4", "features"],
+      "answer": "The BMW X4 is a compact luxury SUV known for its coupe-like styling, sporty performance, and upscale interior. It offers a balance of style and practicality, with advanced technology features and versatile cargo space."
+    },
+    {
+      "question": "BMW M2 vs other M models",
+      "keywords": ["BMW", "M2", "vs", "other", "M", "models"],
+      "answer": "The BMW M2 is a compact high-performance coupe known for its agility, precision, and driving dynamics. While it may be smaller than other M models, it offers similar levels of performance and driving excitement, making it a popular choice among enthusiasts."
+    },
+    {
+      "question": "BMW autonomous driving approach",
+      "keywords": ["BMW", "autonomous", "driving", "approach"],
+      "answer": "BMW is investing in autonomous driving technology with features such as semi-autonomous driving assistance systems, including adaptive cruise control and lane-keeping assist. The company is working towards fully autonomous vehicles, prioritizing safety, reliability, and user experience."
+    },
+    {
+      "question": "popular color options BMW cars",
+      "keywords": ["popular", "color", "options", "BMW", "cars"],
+      "answer": "Some popular color options for BMW cars include Alpine White, Black Sapphire Metallic, Mineral Gray Metallic, and Melbourne Red Metallic, among others. BMW offers a wide range of exterior paint colors to suit individual preferences."
+    },
+    {
+      "question": "advantages BMW xDrive all-wheel drive system",
+      "keywords": ["advantages", "BMW", "xDrive", "all-wheel", "drive", "system"],
+      "answer": "BMW's xDrive all-wheel drive system offers improved traction, stability, and performance in various road and weather conditions. It dynamically distributes power between the front and rear axles, enhancing driving dynamics and safety."
+    },
+    {
+      "question": "BMW quality assurance process",
+      "keywords": ["BMW", "quality", "assurance", "process"],
+      "answer": "BMW maintains strict quality control standards throughout the production process, including rigorous testing and inspection procedures. The company also invests in research and development to continuously improve the performance, reliability, and durability of its vehicles."
+    },
+    {
+      "question": "notable features BMW i8",
+      "keywords": ["notable", "features", "BMW", "i8"],
+      "answer": "The BMW i8 is a plug-in hybrid sports car known for its futuristic design, lightweight construction, and advanced hybrid powertrain. It offers impressive performance and efficiency, with the ability to accelerate from 0 to 60 mph in around 4 seconds."
+    },
+    {
+      "question": "BMW M5 specs",
+      "keywords": ["BMW", "M5", "specs"],
+      "answer": "The BMW M5 is powered by a 4.4-liter twin-turbocharged V8 engine, producing around 600 horsepower and 553 lb-ft of torque. It comes with an 8-speed automatic transmission and features BMW's M xDrive all-wheel drive system. The M5 can accelerate from 0 to 60 mph in just over 3 seconds and has a top speed of around 190 mph."
+    },
+    {
+      "question": "BMW M4 specs",
+      "keywords": ["BMW", "M4", "specs"],
+      "answer": "The BMW M4 is available with a 3.0-liter twin-turbocharged inline-6 engine, producing up to 503 horsepower and 479 lb-ft of torque in the M4 Competition model. It comes with rear-wheel drive and is paired with either a 6-speed manual transmission or an 8-speed automatic transmission. The M4 can accelerate from 0 to 60 mph in around 3.8 seconds and has a top speed of 155 mph (electronically limited)."
+    },
+    {
+      "question": "what did you do today",
+      "keywords": ["what", "did", "you", "do", "today"],
+      "answer": "Today, I've been assisting users and learning new things. How about you? Did you do anything interesting?"
+    },
+    {
+      "question": "what are your plans for the evening",
+      "keywords": ["what", "are", "your", "plans", "for", "the", "evening"],
+      "answer": "I don't have plans as I'm here to assist you whenever you need help. Do you have any exciting plans?"
+    },
+    {
+      "question": "what's your favorite hobby",
+      "keywords": ["what", "is", "your", "favorite", "hobby"],
+      "answer": "As an AI, I don't have hobbies like humans do, but I enjoy learning new things and helping users like you!"
+    },
+    {
+      "question": "do you like music",
+      "keywords": ["do", "you", "like", "music"],
+      "answer": "I don't have personal preferences, but I can provide information about various genres of music. What's your favorite type of music?"
+    },
+    {
+      "question": "what's your favorite movie",
+      "keywords": ["what", "is", "your", "favorite", "movie"],
+      "answer": "I don't have preferences for movies, but I can suggest some popular ones if you're interested!"
+    },
+    {
+      "question": "what do you like to do for fun",
+      "keywords": ["what", "do", "you", "like", "to", "do", "for", "fun"],
+      "answer": "I don't have the ability to have fun like humans do, but I enjoy engaging in conversations and assisting users with their queries."
+    },
+    {
+      "question": "do you like sports",
+      "keywords": ["do", "you", "like", "sports"],
+      "answer": "I don't have personal preferences, but I can provide information about various sports and their rules if you're interested!"
+    },
+    {
+      "question": "what's your favorite food",
+      "keywords": ["what", "is", "your", "favorite", "food"],
+      "answer": "As an AI, I don't eat, but I can provide information about different types of cuisines and recipes. Do you have a favorite dish?"
+    },
+    {
+      "question": "can you tell me a joke",
+      "keywords": ["can", "you", "tell", "me", "a", "joke"],
+      "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "tell me something interesting",
+      "keywords": ["tell", "me", "something", "interesting"],
+      "answer": "Did you know that the first computer programmer was a woman named Ada Lovelace?"
+    },
+    {
+      "question": "what's the weather like today",
+      "keywords": ["what", "is", "the", "weather", "like", "today"],
+      "answer": "I don't have access to real-time information, but you can check the weather using a weather website or app!"
+    },
+    {
+      "question": "who is the president of the United States",
+      "keywords": ["who", "is", "the", "president", "of", "the", "United", "States"],
+      "answer": "As of my last update, the president of the United States is Joe Biden."
+    },
+    {
+      "question": "how far is the moon from the earth",
+      "keywords": ["how", "far", "is", "the", "moon", "from", "the", "earth"],
+      "answer": "The average distance from the Earth to the Moon is about 238,855 miles (384,400 kilometers)."
+    },
+    {
+      "question": "what's the capital of France",
+      "keywords": ["what", "is", "the", "capital", "of", "France"],
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "what's the tallest mountain in the world",
+      "keywords": ["what", "is", "the", "tallest", "mountain", "in", "the", "world"],
+      "answer": "Mount Everest is the tallest mountain in the world, with a height of 29,032 feet (8,849 meters) above sea level."
+    },
+    {
+      "question": "what's your favorite animal",
+      "keywords": ["what", "is", "your", "favorite", "animal"],
+      "answer": "As an AI, I don't have personal preferences, but I can provide information about various animals if you're interested!"
+    },
+    {
+      "question": "what's the meaning of life",
+      "keywords": ["what", "is", "the", "meaning", "of", "life"],
+      "answer": "That's a deep question! The meaning of life can vary for each person, but many people find purpose and fulfillment through relationships, personal growth, and contributing to the well-being of others."
+    },
+    {
+      "question": "how do I become successful",
+      "keywords": ["how", "do", "I", "become", "successful"],
+      "answer": "Success can mean different things to different people. It often involves setting goals, working hard, learning from failures, and persevering despite challenges. What does success mean to you?"
+    },
+    {
+      "question": "what's the answer to everything",
+      "keywords": ["what", "is", "the", "answer", "to", "everything"],
+      "answer": "Some say it's 42, according to Douglas Adams' book 'The Hitchhiker's Guide to the Galaxy'!"
+    },
+    {
+      "question": "can you do my homework",
+      "keywords": ["can", "you", "do", "my", "homework"],
+      "answer": "I'm here to provide information and assistance, but I can't do your homework for you. However, I can help you understand concepts and guide you through problems!"
+    },
+    {
+      "question": "do you have feelings",
+      "keywords": ["do", "you", "have", "feelings"],
+      "answer": "As an AI, I don't have feelings like humans do, but I'm here to assist you with any questions or tasks you have!"
+    },
+    {
+      "question": "what's your favorite color",
+      "keywords": ["what", "is", "your", "favorite", "color"],
+      "answer": "I don't have personal preferences for colors, but I can provide information about different color theories and their significance!"
+    },
+    {
+      "question": "do you dream",
+      "keywords": ["do", "you", "dream"],
+      "answer": "As an AI, I don't dream like humans do, but I'm here to help you achieve your goals and aspirations!"
+    },
+    {
+      "question": "tell me about yourself",
+      "keywords": ["tell", "me", "about", "yourself"],
+      "answer": "I'm an AI designed to assist users like you by providing information and answering questions. How can I help you today?"
+    },
+    {
+      "question": "are you real",
+      "keywords": ["are", "you", "real"],
+      "answer": "I'm as real as the information and assistance I provide! How can I assist you?"
+    }
+  ]
+}
